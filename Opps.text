@@ -1,5 +1,18 @@
 1: What is Class ?
 2: What is Object ?
 3: What is Constructor?
+   Can constructor be only public ?
 4: Difference between Constructor vs Function ?
-5: 
+5: Difference between Oops pillar vs principal ?
+  -> principal is the Goal.
+  -> pillars(Mechanics) are the way to achieve the goal.
+
+1: principal:
+    -> Abstraction.
+3 pillars: 
+    -> Encapsulation, Inheritance, Polymorphism
+
+    Abstract English meaning: existing only as an idea.
+
+
+    
