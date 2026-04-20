@@ -1,0 +1,20 @@
+Design a BankAccount class for a banking application.
+Requirements:
+1. Attributes:
+- Account number
+- Account holder name
+- Balance
+- Account type (Savings/Current)
+- Is account active?
+2. Behaviors:
+- Deposit money (only positive amounts)
+- Withdraw money (only if sufficient balance exists)
+- Check balance
+- Deactivate account
+- Transfer money to another account
+3. Edge Cases to Handle:
+- Cannot deposit negative or zero amount
+- Cannot withdraw more than available balance
+- Cannot withdraw from inactive account
+- Cannot transfer to the same account
+4. Create 2 accounts and demonstrate a transfer between them
